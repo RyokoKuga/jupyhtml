@@ -13,3 +13,5 @@ Windons executable can be downloaded on the following link:
 <div align="left">
 <img src="Animation.gif" width="600">
 </div>
+
+**To run jupyhtml, you must install the jupyter notebook.**  
