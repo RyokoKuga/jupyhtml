@@ -9,13 +9,14 @@ Windons executable can be downloaded on the following link:
   
 [<img src="images/Button.png">](https://github.com/RyokoKuga/jupyhtml/releases/download/v1.0.0/jupyhtml.zip)   
 
-**Drag and drop ipynb files to jupyhtml.exe to convert them to HTML.**
+## How it Works
+Drag and drop ipynb files to jupyhtml.exe.
 
 <div align="left">
 <img src="images/Animation.gif" width="600">
 </div>
 
-**To run jupyhtml, you must install the jupyter notebook.**  
+To run jupyhtml, you must install the jupyter notebook.  
 
 ## Share
 [<img src="images/twitter.png" width="32">](https://twitter.com/intent/tweet?text=%23jupyhtml%0Ahttps://github.com/RyokoKuga/jupyhtml)
