@@ -2,16 +2,24 @@
 Convert Jupyter Notebooks to HTML.  
 
 <div align="left">
-<img src="Image.png" width="600">
+<img src="images/Image.png" width="600">
 </div>
 
 Windons executable can be downloaded on the following link:  
-[**jupyhtml.zip**](https://github.com/RyokoKuga/jupyhtml/releases/download/v1.0.0/jupyhtml.zip)  
+  
+[<img src="images/Button.png">](https://github.com/RyokoKuga/jupyhtml/releases/download/v1.0.0/jupyhtml.zip)   
 
 **Drag and drop ipynb files to jupyhtml.exe to convert them to HTML.**
 
 <div align="left">
-<img src="Animation.gif" width="600">
+<img src="images/Animation.gif" width="600">
 </div>
 
 **To run jupyhtml, you must install the jupyter notebook.**  
+
+## Share
+[<img src="images/twitter.png" width="32">](https://twitter.com/intent/tweet?text=%23jupyhtml%0Ahttps://github.com/RyokoKuga/jupyhtml)
+&emsp;[<img src="images/facebook.png" width="32">](https://www.facebook.com/share.php?u=https://github.com/RyokoKuga/jupyhtml)
+&emsp;[<img src="images/hatena.png" width="32">](https://b.hatena.ne.jp/entry/s/github.com/RyokoKuga/jupyhtml)
+&emsp;[<img src="images/line.png" width="32">](https://line.me/R/msg/text/?https://github.com/RyokoKuga/jupyhtml)
+&emsp;[<img src="images/pocket.png" width="32">](http://getpocket.com/edit?url=https://github.com/RyokoKuga/jupyhtml) 
